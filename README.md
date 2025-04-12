@@ -8,7 +8,7 @@ This project provides a simple interface for creating pixel art images in the br
 
 ## Try it Out
 
-You can try out the latest version on GitHub Pages here: [https://fluffyloaf254.github.io/web-pixel-maker/](https://fluffyloaf254.github.io/web-pixel-maker/)
+You can try out the latest version on GitHub Pages here: [https://polygonal-stew.github.io/web-pixel-maker/](https://polygonal-stew.github.io/web-pixel-maker/)
 
 To run the project locally:
 
